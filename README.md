@@ -1,2 +1,2 @@
-# wurdle
-urban dictionary wordle
+# BigWordle
+A bigger Wordle
